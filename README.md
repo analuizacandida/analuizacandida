@@ -1,33 +1,6 @@
-### Hi there 👋
-<div>
-  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=analuizacandida&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analuizacandida&layout=compact&langs_count=16&theme=great-gatsby"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=analuizacandida&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Ana Luiza github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analuizacandida&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
-<br>
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Melhores Tecnologias <3</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   </div>
-    
-  
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto:analuizacandiavc@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "[https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/](https://www.linkedin.com/in/ana-luíza-carvalho-0829a6258/)">
-      <img width="25" src="linkedin.svg">
-    </a>
-   
-   
-</div>
-  
-![Snake animation](https://github.com/analuizacandida/analuizacandida/blob/output/github-contribution-grid-snake.svg)
-  
 
