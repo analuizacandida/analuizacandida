@@ -56,13 +56,13 @@
 ### 🌐 Onde me encontrar
 
 <p align="center">
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="mailto:analuizacandidavc@hmail.com">
     <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/seulinkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/ana-luíza-candida-0829a6258/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/seu-usuario-aqui" target="_blank">
+  <a href="https://github.com/analuizacabdida" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
