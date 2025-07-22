@@ -1,59 +1,84 @@
-<h1 align="center">Olá! Eu sou a Ana 👋</h1>
+<h1 align="center">✨ Olá, eu sou a Ana! ✨</h1>
 
-<p align="center">
-  💻 Frontend Developer • 🎓 Análise e Desenvolvimento de Sistemas • 🇧🇷 Brasília - DF
+ <p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=0003F7&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%92%BB" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
-  Apaixonada por transformar ideias em interfaces reais, funcionais e bem pensadas.  
-  Acredito que código bom é aquele que respeita o tempo de quem vai dar manutenção. 💡✨
-</p>
+
 
 ---
 
-### 💼 Sobre mim
+### 👩‍💻 Sobre mim
 
-- 👩‍💻 Frontend dev com foco em performance, UX e boas práticas;
-- 🎓 Graduanda em Análise e Desenvolvimento de Sistemas;
-- 📍 Baseada em Brasília - DF;
-- 👀 Sempre estudando algo novo;
-- 🎯 Buscando evoluir como dev e como pessoa, todos os dias.
+- 🎯 Frontend dev focada em criar experiências reais e funcionais;
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas;
+- 🌍 Brasília, DF ;
+- ✨ Acredito que criatividade e código andam de mãos dadas;
+- 🔭 Sempre em busca de aprender mais e evoluir;
+- 🚀 Sonho em trabalhar com projetos globais e fazer a diferença.
 
 ---
 
-### 🛠️ Tecnologias que uso no dia a dia
+### 💻 Techs que eu uso 
 
-<div style="display: flex; gap: 12px; flex-wrap: wrap">
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS"/>
 
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![PrimeNG](https://img.shields.io/badge/-PrimeNG-4B8BBE?style=for-the-badge&logo=prime&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+</p>
 
+> Também uso com frequência: **PrimeNG**, **Figma**, **Git**, **VS Code**, entre outros companheiros de guerra. ⚔️
+
+---
+
+### 📊 GitHub em ação
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario-aqui&show_icons=true&theme=tokyonight&hide_title=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-aqui&layout=compact&theme=tokyonight" height="165"/>
 </div>
 
 ---
 
+### 🚀 Um pouco além do código...
 
-### 🌱 Fun facts
-
-- Adoro ler 🧠;
-- Trabalho remoto com muito café e foco no fone ☕🎧;
-- Acredito na força das conexões humanas, até no código ❤️.
-
----
-
-### 📫 Vamos nos conectar?
-
-- ✉️ **Email:** seuemail@exemplo.com  
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/ana-luíza-candida-0829a6258/)  
+- 📚 Amo ler (romances, mistério e livros de escrita criativa);
+- ✍️ Às vezes escrevo — e quero escrever mais!
+- 🎧 Trabalho remoto com muita música no fone;
+- 🧠 Curiosa por natureza e apaixonada por aprender coisas novas (inclusive idiomas! 🇫🇷🇪🇸)
 
 ---
 
-📝 *"Criar é a forma mais corajosa de existir."*
+### 🌐 Onde me encontrar
+
+<p align="center">
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/seulinkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/seu-usuario-aqui" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ✨ Frase que me guia
+
+> *"Não espere por oportunidades extraordinárias. Agarre ocasiões comuns e torne-as grandes."* – Orison Swett Marden
+
+---
+
+<p align="center">
+  Feito com 💖 por Ana – e um pouquinho de ajuda da IA 😉
+</p>
+
 
 
 
