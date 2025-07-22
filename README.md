@@ -16,7 +16,7 @@
 - 👩‍💻 Frontend dev com foco em performance, UX e boas práticas;
 - 🎓 Graduanda em Análise e Desenvolvimento de Sistemas;
 - 📍 Baseada em Brasília - DF;
-- 👀 Sempre estudando algo novo (inclusive inglês e francês 👩‍🎓);
+- 👀 Sempre estudando algo novo;
 - 🎯 Buscando evoluir como dev e como pessoa, todos os dias.
 
 ---
@@ -37,20 +37,10 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario-aqui&show_icons=true&theme=radical&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-aqui&layout=compact&theme=radical)
-
-</div>
-
----
 
 ### 🌱 Fun facts
 
-- Adoro ler, escrever e pensar em ideias malucas fora da caixinha 🧠;
+- Adoro ler 🧠;
 - Trabalho remoto com muito café e foco no fone ☕🎧;
 - Acredito na força das conexões humanas, até no código ❤️.
 
@@ -60,7 +50,6 @@
 
 - ✉️ **Email:** seuemail@exemplo.com  
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/ana-luíza-candida-0829a6258/)  
-- 🌐 **Portfólio (em breve... ou não rs):** coming soon...
 
 ---
 
