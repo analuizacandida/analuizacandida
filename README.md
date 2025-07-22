@@ -35,24 +35,6 @@
 
 ---
 
-### 📊 GitHub em ação
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario-aqui&show_icons=true&theme=tokyonight&hide_title=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-aqui&layout=compact&theme=tokyonight" height="165"/>
-</div>
-
----
-
-### 🚀 Um pouco além do código...
-
-- 📚 Amo ler (romances, mistério e livros de escrita criativa);
-- ✍️ Às vezes escrevo — e quero escrever mais!
-- 🎧 Trabalho remoto com muita música no fone;
-- 🧠 Curiosa por natureza e apaixonada por aprender coisas novas (inclusive idiomas! 🇫🇷🇪🇸)
-
----
-
 ### 🌐 Onde me encontrar
 
 <p align="center">
@@ -76,7 +58,7 @@
 ---
 
 <p align="center">
-  Feito com 💖 por Ana – e um pouquinho de ajuda da IA 😉
+  Feito com 💖 por Ana 
 </p>
 
 
