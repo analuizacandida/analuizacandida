@@ -1,7 +1,7 @@
 <h1 align="center">✨ Olá, eu sou a Ana! ✨</h1>
 
  <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=0003F7&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%92%BB" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFE&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%92%BB;Angular+%E2%80%A2+React+%E2%80%A2+Tailwind+%E2%80%A2+PrimeNG+%F0%9F%A7%A9" alt="Typing SVG" /></a>
 </p>
 
 
